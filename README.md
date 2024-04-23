@@ -1,5 +1,5 @@
-# Password-Manager-MERN\n
-***This is my first full stack project***
+# Password-Manager-MERN
+***This is my first full stack project***\n
 Workflow:-
 1.) First a Login page opens
 2.) Authorized user gets in
