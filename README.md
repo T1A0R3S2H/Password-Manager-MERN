@@ -1,5 +1,6 @@
 # Password-Manager-MERN
-This is my first full stack project, below is the workflow of this project:
+***This is my first full stack project***
+Workflow:-
 1.) First a Login page opens
 2.) Authorized user gets in
 3.) User sees the option to add Username, Password and Website name
