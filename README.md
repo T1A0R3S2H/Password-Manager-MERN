@@ -4,7 +4,7 @@ Welcome to my first full-stack project, a Password Manager built using the MERN 
 
 ## Project Overview
 
-This application allows authorized users to securely manage their passwords for various websites. Users can log in, add new passwords, view existing passwords, update them if needed, and delete them when necessary. The application ensures the security of user data by implementing authentication mechanisms.
+This application allows users to securely manage their passwords. Users can add new passwords, view existing passwords, update them if needed, and delete them when necessary. The application ensures the security of user data.
 
 ## Technologies Used
 
@@ -21,12 +21,10 @@ This application allows authorized users to securely manage their passwords for 
 
 ## Features
 
-- **User Authentication:** Secure login and registration system.
 - **Add Passwords:** Easily add new passwords for different websites.
 - **View Passwords:** See a list of existing passwords.
 - **Update Passwords:** Modify existing passwords as needed.
 - **Delete Passwords:** Remove passwords that are no longer needed.
-- **Logout:** Securely log out of the application.
 
 ## License
 
