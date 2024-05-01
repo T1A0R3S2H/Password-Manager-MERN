@@ -19,6 +19,9 @@ This application allows users to securely manage their passwords. Users can add 
   - Express.js
   - MongoDB
 
+- **Database:**
+  - MongoDB
+
 ## Features
 
 - **Add Passwords:** Easily add new passwords for different websites.
