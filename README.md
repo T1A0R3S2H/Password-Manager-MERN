@@ -10,6 +10,7 @@ This application allows users to manage their passwords. Users can add new passw
 
 - **Frontend:**
   - React.js
+  - Tailwind CSS
   - HTML
   - CSS
   - JavaScript
