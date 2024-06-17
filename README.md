@@ -18,7 +18,6 @@ This application allows users to manage their passwords. Users can add new passw
 - **Backend:**
   - Node.js
   - Express.js
-  - MongoDB
 
 - **Database:**
   - MongoDB
