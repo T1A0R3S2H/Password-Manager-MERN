@@ -29,7 +29,3 @@ This application allows users to manage their passwords. Users can add new passw
 - **Update Passwords:** Modify existing passwords as needed.
 - **Delete Passwords:** Remove passwords that are no longer needed.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
